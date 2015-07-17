@@ -1,2 +1,2 @@
 __author__ = 'Jane'
-print("haha")
+print("hello")
